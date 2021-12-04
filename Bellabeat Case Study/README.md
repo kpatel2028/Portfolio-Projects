@@ -9,3 +9,6 @@ smart device market.Urška Sršen, cofounder and Chief Creative Officer of Bella
 for the company.As a junior data analyst working on the marketing analyst team at Bellabeat, will focus on one of Bellabeat’s products and analyze smart device data to 
 gain insight into how consumers are using their smart devices. The insights analysis and finding will then help to guide marketing strategy for the company. 
 I will try to present my analysis to the Bellabeat executive team along with your high-level recommendations for Bellabeat’s marketing strategy. 
+
+Download the Dataset:
+https://www.kaggle.com/arashnic/fitbit
